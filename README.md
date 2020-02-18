@@ -1,4 +1,4 @@
-# smolcert-rust
+# smolcert-rust [![CircleCI](https://circleci.com/gh/smolcert/smolcert-rust/tree/master.svg?style=svg)](https://circleci.com/gh/smolcert/smolcert-rust/tree/master)
 
 This is the Rust implementation of [smolcert](https://github.com/smolcert/smolcert-spec). In
 `smlcrt` you find a simple CLI tool to create (currently only self signed) smolcerts. In
