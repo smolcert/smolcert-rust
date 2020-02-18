@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "smolcert-lib",
+    "smlcrt",
+]
+exclude = ["/.circleci", "/.vscode"]
